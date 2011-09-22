@@ -1,0 +1,8 @@
+./k-irecovery [args]
+-c <command> send a single command.
+-f <file> upload a file (to 0x21,1)		
+-e send limera1n or steaks4uce [bootrom exploits]		
+-k Grab Hardware Data
+-kk Grab iBoot Data
+
+##Yes, this compiles on ANY UNIX OS, the GUI can only be compiled on & for Windows.
