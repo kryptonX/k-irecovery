@@ -1,0 +1,13 @@
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\bin\Debug\kdevice.exe
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\bin\Debug\kdevice.pdb
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\bin\Debug\kdevice.xml
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.Form1.resources
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.Resources.resources
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.exe
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.xml
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.pdb
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.running.resources
+C:\Users\Utilisateur\Desktop\Projects\k-irecovery\kdevice\kdevice\obj\x86\Debug\kdevice.mod.resources
